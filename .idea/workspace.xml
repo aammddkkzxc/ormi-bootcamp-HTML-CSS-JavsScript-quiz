@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c28b18-8711-4ddb-9198-681285d038a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0110-javascript/0110-javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,9 +35,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/aammddkkzxc/ormi-bootcamp-HTML-CSS-JavsScript-quiz",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/aammddkkzxc/test",
     "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704785533247</updated>
-      <workItem from="1704785536937" duration="5710000" />
+      <workItem from="1704785536937" duration="15068000" />
     </task>
     <servers />
   </component>

@@ -1,8 +1,27 @@
+p {
+    position: relative;
+    width : 215px;
+    height : 15px;
+    top : 19px;
+    left : 16px;
+    font-weight: 400;
+    font-size : 12px;
+    line-height: 15.02px;
+}
 div {
+    position: relative;
     width : 350px;
     height: 140px;
     top : 30px;
     left : 25px;
     border-radius: 5px;
     border: 1px solid #DBDBDB;
+}
+button {
+    width : 318px;
+    height : 40px;
+    top : 50px;
+    left : 16px;
+    border-radius: 4px;
+    background-color : rebeccapurple;
 }
