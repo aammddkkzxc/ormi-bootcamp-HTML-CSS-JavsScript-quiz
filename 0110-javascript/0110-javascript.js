@@ -1,5 +1,6 @@
 console.log('hello!');
 
+
 // 함수 선언문
 function sum(x, y){
     return x + y;
