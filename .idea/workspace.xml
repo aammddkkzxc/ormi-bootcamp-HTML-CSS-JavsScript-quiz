@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c28b18-8711-4ddb-9198-681285d038a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0112-JavaScript-practice/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0112-JavaScript-practice/dom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0112-JavaScript-practice/splice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0114-JavaScript-practice/prototype.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,10 @@
       <workItem from="1704957297776" duration="2316000" />
       <workItem from="1704960332404" duration="103000" />
       <workItem from="1705034006798" duration="4303000" />
-      <workItem from="1705063686402" duration="12076000" />
+      <workItem from="1705063686402" duration="15392000" />
+      <workItem from="1705219700034" duration="767000" />
+      <workItem from="1705231083397" duration="1424000" />
+      <workItem from="1705242132011" duration="4089000" />
     </task>
     <servers />
   </component>
