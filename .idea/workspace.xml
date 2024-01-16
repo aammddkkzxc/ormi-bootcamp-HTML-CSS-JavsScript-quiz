@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c28b18-8711-4ddb-9198-681285d038a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/0114-JavaScript-practice/prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0116-JavaScript-practice/callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1000thousand-page-quiz/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1000thousand-page-quiz/b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1000thousand-page-quiz/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0109-login-ui/login-ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/0109-login-ui/login-ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,12 +82,28 @@
       <workItem from="1705063686402" duration="15392000" />
       <workItem from="1705219700034" duration="767000" />
       <workItem from="1705231083397" duration="1424000" />
-      <workItem from="1705242132011" duration="4089000" />
+      <workItem from="1705242132011" duration="17152000" />
+      <workItem from="1705328324573" duration="5027000" />
+      <workItem from="1705363632576" duration="23000" />
+      <workItem from="1705368301915" duration="120000" />
+      <workItem from="1705371434679" duration="2523000" />
+      <workItem from="1705387200924" duration="8879000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
