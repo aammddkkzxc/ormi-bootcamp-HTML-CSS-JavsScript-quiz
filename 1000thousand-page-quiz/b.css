@@ -154,7 +154,7 @@ button {
 }
 
 .result{
-    /*display: none;*/
+    display: none;
     flex-direction: column;
     line-height: 1.5;
     margin-bottom: 80px;
@@ -189,6 +189,7 @@ button {
 }
 
 #modal {
+    display: none;
     position : fixed;
     justify-content: center;
     align-items: center;
