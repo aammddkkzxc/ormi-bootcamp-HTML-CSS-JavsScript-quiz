@@ -146,7 +146,6 @@ button {
 
 .result{
     display: none;
-    flex-direction: column;
     line-height: 1.5;
     margin-bottom: 80px;
 }
@@ -174,10 +173,11 @@ button {
     margin-top: 70px;
 }
 
-.buttons .share button {
+.share_btn{
     background-color: #FFF;
     margin-left: 20px;
 }
+
 
 #modal {
     display: none;
